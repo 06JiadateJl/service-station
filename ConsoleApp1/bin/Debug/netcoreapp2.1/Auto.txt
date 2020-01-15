@@ -1,0 +1,6 @@
+1;Mazda;Blue;01.10.2001;34254325;podveska
+2;Lada;Red;01.10.1996;2345234;23454;dvigatel
+3;Mazda;White;01.10.1996;;65788768kolesa
+4;Mazda;Black;01.10.1996;65686875;1223456;aparatura
+5;Mitchubishi;White;01.10.1996;786655;dveri
+6;Mazda;Blue;01.10.1996;3546465;maslo 
